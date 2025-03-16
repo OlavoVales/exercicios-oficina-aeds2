@@ -1,0 +1,6 @@
+[submodule "contagem-de-operacoes-e-tempo-execucao"]
+	path = contagem-de-operacoes-e-tempo-execucao
+	url = https://github.com/DisciplinasProgramacao/contagem-de-operacoes-e-tempo-execucao-OlavoVales.git
+[submodule "revisao-e-nivelamento-dados-em-arquivo-texto"]
+	path = revisao-e-nivelamento-dados-em-arquivo-texto
+	url = https://github.com/DisciplinasProgramacao/revisao-e-nivelamento-dados-em-arquivo-texto-OlavoVales.git
