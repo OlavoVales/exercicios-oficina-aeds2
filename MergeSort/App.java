@@ -171,6 +171,13 @@ public class App {
 
         /* Fazer a implementacao do restante do main para a ordenacao 
         *  com o algoritmo MergeSort */
-        //TO DO//
+        MergeSort<Integer> merge = new MergeSort<>();
+        Integer[] vetorOrdenadoMerge = merge.ordenar(vetor);
+
+        System.out.println("\nVetor ordenado método Merge:");
+        System.out.println(Arrays.toString(vetorOrdenadoMerge));
+        System.out.println("Comparações: " + merge.getComparacoes());
+        System.out.println("Movimentações: " + merge.getMovimentacoes());
+        System.out.println("Tempo de ordenação (ms): " + merge.getTempoOrdenacao());
     }
 }
