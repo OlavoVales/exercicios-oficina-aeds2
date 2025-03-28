@@ -36,7 +36,7 @@ public class AppOficina {
     static final int MAX_PEDIDOS = 100;
     static Produto[] produtos;
     static int quantProdutos = 0;
-    static String nomeArquivoDados = "produtos.txt";
+    static String nomeArquivoDados = "C:/Olavo/oficina/Oficina_Completo/produtos.txt";
     static IOrdenador<Produto> ordenador;
 
     // #region utilidades
