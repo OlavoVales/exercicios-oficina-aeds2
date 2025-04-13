@@ -4,3 +4,6 @@
 [submodule "revisao-e-nivelamento-dados-em-arquivo-texto"]
 	path = revisao-e-nivelamento-dados-em-arquivo-texto
 	url = https://github.com/DisciplinasProgramacao/revisao-e-nivelamento-dados-em-arquivo-texto-OlavoVales.git
+[submodule "AtividadeAvaliativa2/AtividadeAvaliativa2"]
+	path = AtividadeAvaliativa2/AtividadeAvaliativa2
+	url = https://github.com/DisciplinasProgramacao/ordenacao-polimorfica-atividade-avaliativa-OlavoVales
