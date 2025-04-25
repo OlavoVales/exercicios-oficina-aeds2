@@ -9,7 +9,7 @@ public class Fila {
         ultimo = ultimo.prox;
     }
 
-    public int remover(){
+    public int remover(){ //entender remover
         if(primeiro != ultimo){
             Celula tmp = primeiro.prox;
             primeiro.prox = null;
@@ -30,7 +30,7 @@ public class Fila {
 
     public int maiorElemento(int elemento){
 
-        
+        for()
 
         return 0;
     }
