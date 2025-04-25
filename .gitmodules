@@ -4,3 +4,6 @@
 [submodule "revisao-e-nivelamento-dados-em-arquivo-texto"]
 	path = revisao-e-nivelamento-dados-em-arquivo-texto
 	url = https://github.com/DisciplinasProgramacao/revisao-e-nivelamento-dados-em-arquivo-texto-OlavoVales.git
+[submodule "fila-2404/fila-flexivel-polimorfica-OlavoVales"]
+	path = fila-2404/fila-flexivel-polimorfica-OlavoVales
+	url = https://github.com/DisciplinasProgramacao/fila-flexivel-polimorfica-OlavoVales
