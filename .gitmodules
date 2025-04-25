@@ -7,3 +7,9 @@
 [submodule "fila-2404/fila-flexivel-polimorfica-OlavoVales"]
 	path = fila-2404/fila-flexivel-polimorfica-OlavoVales
 	url = https://github.com/DisciplinasProgramacao/fila-flexivel-polimorfica-OlavoVales
+[submodule "AtividadeAvaliativa2/AtividadeAvaliativa2"]
+	path = AtividadeAvaliativa2/AtividadeAvaliativa2
+	url = https://github.com/DisciplinasProgramacao/ordenacao-polimorfica-atividade-avaliativa-OlavoVales
+[submodule "AtividadeAvaliativa2/ordenacao-polimorfica-atividade-avaliativa-OlavoVales"]
+	path = AtividadeAvaliativa2/ordenacao-polimorfica-atividade-avaliativa-OlavoVales
+	url = https://github.com/DisciplinasProgramacao/ordenacao-polimorfica-atividade-avaliativa-OlavoVales
