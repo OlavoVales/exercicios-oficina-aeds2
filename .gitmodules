@@ -10,3 +10,6 @@
 [submodule "AtividadeAvaliativa2/ordenacao-polimorfica-atividade-avaliativa-OlavoVales"]
 	path = AtividadeAvaliativa2/ordenacao-polimorfica-atividade-avaliativa-OlavoVales
 	url = https://github.com/DisciplinasProgramacao/ordenacao-polimorfica-atividade-avaliativa-OlavoVales
+[submodule "estruturas-de-dados-flexiveis-atividade-avaliativa-OlavoVales"]
+	path = estruturas-de-dados-flexiveis-atividade-avaliativa-OlavoVales
+	url = https://github.com/DisciplinasProgramacao/estruturas-de-dados-flexiveis-atividade-avaliativa-OlavoVales.git
