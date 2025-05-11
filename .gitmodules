@@ -19,3 +19,6 @@
 [submodule "fila-flexivel-polimorfica-OlavoVales"]
 	path = fila-flexivel-polimorfica-OlavoVales
 	url = https://github.com/DisciplinasProgramacao/fila-flexivel-polimorfica-OlavoVales.git
+[submodule "atividadeAvaliativa3/estruturas-de-dados-flexiveis-atividade-avaliativa-OlavoVales"]
+	path = atividadeAvaliativa3/estruturas-de-dados-flexiveis-atividade-avaliativa-OlavoVales
+	url = https://github.com/DisciplinasProgramacao/estruturas-de-dados-flexiveis-atividade-avaliativa-OlavoVales
