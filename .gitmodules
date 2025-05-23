@@ -13,3 +13,6 @@
 [submodule "AtividadeAvaliativa2/ordenacao-polimorfica-atividade-avaliativa-OlavoVales"]
 	path = AtividadeAvaliativa2/ordenacao-polimorfica-atividade-avaliativa-OlavoVales
 	url = https://github.com/DisciplinasProgramacao/ordenacao-polimorfica-atividade-avaliativa-OlavoVales
+[submodule "pesquisa-sequencial-e-pesquisa-binaria-OlavoVales"]
+	path = pesquisa-sequencial-e-pesquisa-binaria-OlavoVales
+	url = https://github.com/DisciplinasProgramacao/pesquisa-sequencial-e-pesquisa-binaria-OlavoVales.git
