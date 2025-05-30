@@ -25,3 +25,6 @@
 [submodule "atividadeAvaliativa3/estruturas-de-dados-flexiveis-atividade-avaliativa-OlavoVales"]
 	path = atividadeAvaliativa3/estruturas-de-dados-flexiveis-atividade-avaliativa-OlavoVales
 	url = https://github.com/DisciplinasProgramacao/estruturas-de-dados-flexiveis-atividade-avaliativa-OlavoVales
+[submodule "arvore-binaria-de-busca-OlavoVales"]
+	path = arvore-binaria-de-busca-OlavoVales
+	url = https://github.com/DisciplinasProgramacao/arvore-binaria-de-busca-OlavoVales
