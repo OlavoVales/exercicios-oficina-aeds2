@@ -13,6 +13,9 @@
 [submodule "AtividadeAvaliativa2/ordenacao-polimorfica-atividade-avaliativa-OlavoVales"]
 	path = AtividadeAvaliativa2/ordenacao-polimorfica-atividade-avaliativa-OlavoVales
 	url = https://github.com/DisciplinasProgramacao/ordenacao-polimorfica-atividade-avaliativa-OlavoVales
+[submodule "pesquisa-sequencial-e-pesquisa-binaria-OlavoVales"]
+	path = pesquisa-sequencial-e-pesquisa-binaria-OlavoVales
+	url = https://github.com/DisciplinasProgramacao/pesquisa-sequencial-e-pesquisa-binaria-OlavoVales.git
 [submodule "estruturas-de-dados-flexiveis-atividade-avaliativa-OlavoVales"]
 	path = estruturas-de-dados-flexiveis-atividade-avaliativa-OlavoVales
 	url = https://github.com/DisciplinasProgramacao/estruturas-de-dados-flexiveis-atividade-avaliativa-OlavoVales.git
@@ -22,3 +25,6 @@
 [submodule "atividadeAvaliativa3/estruturas-de-dados-flexiveis-atividade-avaliativa-OlavoVales"]
 	path = atividadeAvaliativa3/estruturas-de-dados-flexiveis-atividade-avaliativa-OlavoVales
 	url = https://github.com/DisciplinasProgramacao/estruturas-de-dados-flexiveis-atividade-avaliativa-OlavoVales
+[submodule "arvore-binaria-de-busca-OlavoVales"]
+	path = arvore-binaria-de-busca-OlavoVales
+	url = https://github.com/DisciplinasProgramacao/arvore-binaria-de-busca-OlavoVales
