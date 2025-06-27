@@ -28,6 +28,3 @@
 [submodule "arvore-binaria-de-busca-OlavoVales"]
 	path = arvore-binaria-de-busca-OlavoVales
 	url = https://github.com/DisciplinasProgramacao/arvore-binaria-de-busca-OlavoVales
-[submodule "avl-e-tabela-hash-atividade-avaliativa-OlavoVales"]
-	path = avl-e-tabela-hash-atividade-avaliativa-OlavoVales
-	url = https://github.com/DisciplinasProgramacao/avl-e-tabela-hash-atividade-avaliativa-OlavoVales
